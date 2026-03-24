@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PackData basePack="http://example.com/basepackurl.xml" name="John Smith Pack" desc="My pack to put my name into the game.">
+
+<PlayerData baseImageUrl="http://example.com/c12341/">
+<P id="314" f="John" s="Smith" i="mypicture.jpg" />
+</PlayerData>
+
+<ClubData baseImageUrl="http://example.com/c12351/">
+<C id="219" n="Pub Team United" i="pubteamunited.jpg" />
+</ClubData>
+
+</PackData>
