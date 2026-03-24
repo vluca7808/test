@@ -1,4 +1,10 @@
 {
+  "ClubData": [
+  {
+    "ID": 1,
+    "Name": "Juventus"
+  }
+],
   "PlayerData": [
     {
       "ID": 1,
