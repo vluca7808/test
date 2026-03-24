@@ -1,0 +1,33 @@
+{
+	"PlayerData": [
+		{
+			"ID": 1,
+			"Forename": "Giovanni",
+			"Surname": "Bongiovanni",
+			"ImageURL": "https://www.pianeta-calcio.it/wp-content/uploads/2022/12/VIGO-BONGIOVANNI-GIOVANNI-MS-22-23.jpg"
+		}
+	],
+
+	"ClubData": [
+		{
+			"ID": 1,
+			"Name": "Scaligera 1919",
+			"ShortName": "SCA",
+			"ImageURL": "https://lh3.googleusercontent.com/w_hPs1kbJvceymGtwDHkMgrUl0vcczx77sce-ShwyHLfOXbv1ouzkHf9Nmn2ajl9pak6VrpABiCnFEDwA2ClIlDgTiJPpPb3VLs0=s200"
+		}
+	],
+
+	"LeagueData": [
+		{
+			"ID": 28,
+			"Name": "Provinciali Elite"
+		}
+	],
+
+	"StadiumData": [
+		{
+			"ID": 1,
+			"Name": "Stadio Benito Mussolini"
+		}
+	]
+}
