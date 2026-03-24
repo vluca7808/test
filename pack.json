@@ -6,35 +6,6 @@
       "Surname": "Del Piero",
       "ClubID": 1,
       "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Del_Piero_2008.jpg"
-    },
-    {
-      "ID": 2,
-      "Forename": "Zinedine",
-      "Surname": "Zidane",
-      "ClubID": 1,
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/6/60/Zidane_2003.jpg"
-    },
-    {
-      "ID": 3,
-      "Forename": "Filippo",
-      "Surname": "Inzaghi",
-      "ClubID": 1,
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Filippo_Inzaghi.jpg"
-    },
-    {
-      "ID": 4,
-      "Forename": "Angelo",
-      "Surname": "Peruzzi",
-      "ClubID": 1,
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Angelo_Peruzzi.jpg"
-    }
-  ],
-  "ClubData": [
-    {
-      "ID": 1,
-      "Name": "Juventus",
-      "ShortName": "JUV",
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/2/2e/Juventus_FC_2017_logo.png"
     }
   ],
   "LeagueData": [
