@@ -1,33 +1,53 @@
 {
-	"PlayerData": [
-		{
-			"ID": 1,
-			"Forename": "Giovanni",
-			"Surname": "Bongiovanni",
-			"ImageURL": "https://www.pianeta-calcio.it/wp-content/uploads/2022/12/VIGO-BONGIOVANNI-GIOVANNI-MS-22-23.jpg"
-		}
-	],
-
-	"ClubData": [
-		{
-			"ID": 1,
-			"Name": "Scaligera 1919",
-			"ShortName": "SCA",
-			"ImageURL": "https://lh3.googleusercontent.com/w_hPs1kbJvceymGtwDHkMgrUl0vcczx77sce-ShwyHLfOXbv1ouzkHf9Nmn2ajl9pak6VrpABiCnFEDwA2ClIlDgTiJPpPb3VLs0=s200"
-		}
-	],
-
-	"LeagueData": [
-		{
-			"ID": 28,
-			"Name": "Provinciali Elite"
-		}
-	],
-
-	"StadiumData": [
-		{
-			"ID": 1,
-			"Name": "Stadio Benito Mussolini"
-		}
-	]
+  "PlayerData": [
+    {
+      "ID": 1,
+      "Forename": "Alessandro",
+      "Surname": "Del Piero",
+      "ClubID": 1,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Del_Piero_2008.jpg"
+    },
+    {
+      "ID": 2,
+      "Forename": "Zinedine",
+      "Surname": "Zidane",
+      "ClubID": 1,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/6/60/Zidane_2003.jpg"
+    },
+    {
+      "ID": 3,
+      "Forename": "Filippo",
+      "Surname": "Inzaghi",
+      "ClubID": 1,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Filippo_Inzaghi.jpg"
+    },
+    {
+      "ID": 4,
+      "Forename": "Angelo",
+      "Surname": "Peruzzi",
+      "ClubID": 1,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Angelo_Peruzzi.jpg"
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "Juventus",
+      "ShortName": "JUV",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/2/2e/Juventus_FC_2017_logo.png"
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 1,
+      "Name": "Serie A 1997-98"
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "Stadio delle Alpi",
+      "ClubID": 1
+    }
+  ]
 }
